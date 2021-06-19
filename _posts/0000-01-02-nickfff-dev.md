@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+la ilahi ila Allah
 Use the left arrow to go bccck!
